@@ -4,6 +4,7 @@ let message: string = "Hello, TypeScript!";
 let count: number = 10;
 let isReady: boolean = true;
 
+
 function greet(name: string): string {
   return `Hello, ${name}!`;
 }
